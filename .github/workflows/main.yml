@@ -32,7 +32,7 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, dan terapkan proyek Anda.
-kami
+          
 kaminama: Windows-RDP
 
 pada: alur kerja_dispatch
